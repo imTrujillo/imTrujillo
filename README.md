@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola! Soy Steven Trujillo😄. <br>Soy un estudiante de ingeniería en sistemas computacionales💻, me encanta la programación front-end. <br>🛠Aspiro a aprender gestores de bases de datos, Java y blockchain. En paralelo, reforzar mis habilidades de liderazgo, comunicación, colaboración y tolerancia al fracaso. <br>✨Actualmente, aspiro a aplicar en pasantías de alto impacto social. <br>📱Espero ofrecer mis servicios en HTML, CSS, JavaScript y PseInt. <br>📞Si está interesado en mis servicios, no dude contactarme por stjs.trujillo@gmail.com.<br>
+Hola! Soy Steven Trujillo😄. <br>Soy un estudiante de ingeniería en sistemas computacionales💻, me encanta el desarrollo front-end. <br>🛠Aspiro a aprender gestores de bases de datos, Java y blockchain. En paralelo, reforzar mis habilidades de liderazgo, comunicación, colaboración y tolerancia al fracaso. <br>✨Actualmente, aspiro a aplicar en pasantías de alto impacto social. <br>📱Espero ofrecer mis servicios en HTML, CSS, JavaScript y PseInt. <br>📞Si está interesado en mis servicios, no dude contactarme por stjs.trujillo@gmail.com.<br>
 
 
 ## 🌐 Socials:
