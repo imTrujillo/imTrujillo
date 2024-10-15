@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola! Soy Steven Trujillo😄 ^=^. <br>Estudiante de ingeniería en sistemas💻, principiante del desarrollo front-end. <br>🛠Entusiasta de la gestión Database, C# y HTML / CSS. <br>✨Aspiro a colaborar en pasantías de alto impacto social. Mientras que se refuercen habilidades de liderazgo, comunicación, colaboración y tolerancia al fracaso. <br>📱HTML| CSS | JavaScript | C#. <br>📞Si está interesado, no dude contactarme por stjs.trujillo@gmail.com.<br>
+Hola! Soy Steven Trujillo :). <br>Estudiante de ingeniería en sistemas💻, principiante del desarrollo front-end. <br>🛠Entusiasta de la gestión Database, C# y HTML / CSS. <br>✨Aspiro a colaborar en pasantías de alto impacto social. Mientras que se refuercen habilidades de liderazgo, comunicación, colaboración y tolerancia al fracaso. <br>📱HTML| CSS | JavaScript | C#. <br>📞Si está interesado, no dude contactarme por stjs.trujillo@gmail.com.<br>
 
 
 ## 🌐 Socials:
